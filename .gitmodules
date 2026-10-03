@@ -1,0 +1,6 @@
+[submodule "omega-engine"]
+	path = omega-engine
+	url = https://github.com/mrranger939/omega-engine.git
+[submodule "omega-frontend"]
+	path = omega-frontend
+	url = https://github.com/mrranger939/omega-frontend.git
